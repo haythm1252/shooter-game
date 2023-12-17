@@ -1,0 +1,36 @@
+C:\Users\haythm ibrahim\source\repos\sg 3\sg 3\bin\Debug\net6.0-windows\sg 3.exe
+C:\Users\haythm ibrahim\source\repos\sg 3\sg 3\bin\Debug\net6.0-windows\sg 3.deps.json
+C:\Users\haythm ibrahim\source\repos\sg 3\sg 3\bin\Debug\net6.0-windows\sg 3.runtimeconfig.json
+C:\Users\haythm ibrahim\source\repos\sg 3\sg 3\bin\Debug\net6.0-windows\sg 3.dll
+C:\Users\haythm ibrahim\source\repos\sg 3\sg 3\bin\Debug\net6.0-windows\sg 3.pdb
+C:\Users\haythm ibrahim\source\repos\sg 3\sg 3\obj\Debug\net6.0-windows\sg_3.Form1.resources
+C:\Users\haythm ibrahim\source\repos\sg 3\sg 3\obj\Debug\net6.0-windows\sg 3.csproj.GenerateResource.cache
+C:\Users\haythm ibrahim\source\repos\sg 3\sg 3\obj\Debug\net6.0-windows\sg 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haythm ibrahim\source\repos\sg 3\sg 3\obj\Debug\net6.0-windows\sg 3.AssemblyInfoInputs.cache
+C:\Users\haythm ibrahim\source\repos\sg 3\sg 3\obj\Debug\net6.0-windows\sg 3.AssemblyInfo.cs
+C:\Users\haythm ibrahim\source\repos\sg 3\sg 3\obj\Debug\net6.0-windows\sg 3.csproj.CoreCompileInputs.cache
+C:\Users\haythm ibrahim\source\repos\sg 3\sg 3\obj\Debug\net6.0-windows\sg 3.dll
+C:\Users\haythm ibrahim\source\repos\sg 3\sg 3\obj\Debug\net6.0-windows\refint\sg 3.dll
+C:\Users\haythm ibrahim\source\repos\sg 3\sg 3\obj\Debug\net6.0-windows\sg 3.pdb
+C:\Users\haythm ibrahim\source\repos\sg 3\sg 3\obj\Debug\net6.0-windows\sg 3.genruntimeconfig.cache
+C:\Users\haythm ibrahim\source\repos\sg 3\sg 3\obj\Debug\net6.0-windows\ref\sg 3.dll
+C:\Users\haythm ibrahim\source\repos\sg 3\sg 3\obj\Debug\net6.0-windows\sg_3.Form2.resources
+C:\Users\haythm ibrahim\source\repos\sg 3\sg 3\obj\Debug\net6.0-windows\sg_3.Form3.resources
+C:\Users\haythm ibrahim\OneDrive\Desktop\sg 3\sg 3\bin\Debug\net6.0-windows\sg 3.exe
+C:\Users\haythm ibrahim\OneDrive\Desktop\sg 3\sg 3\bin\Debug\net6.0-windows\sg 3.deps.json
+C:\Users\haythm ibrahim\OneDrive\Desktop\sg 3\sg 3\bin\Debug\net6.0-windows\sg 3.runtimeconfig.json
+C:\Users\haythm ibrahim\OneDrive\Desktop\sg 3\sg 3\bin\Debug\net6.0-windows\sg 3.dll
+C:\Users\haythm ibrahim\OneDrive\Desktop\sg 3\sg 3\bin\Debug\net6.0-windows\sg 3.pdb
+C:\Users\haythm ibrahim\OneDrive\Desktop\sg 3\sg 3\obj\Debug\net6.0-windows\sg_3.Form1.resources
+C:\Users\haythm ibrahim\OneDrive\Desktop\sg 3\sg 3\obj\Debug\net6.0-windows\sg_3.Form2.resources
+C:\Users\haythm ibrahim\OneDrive\Desktop\sg 3\sg 3\obj\Debug\net6.0-windows\sg_3.Form3.resources
+C:\Users\haythm ibrahim\OneDrive\Desktop\sg 3\sg 3\obj\Debug\net6.0-windows\sg 3.csproj.GenerateResource.cache
+C:\Users\haythm ibrahim\OneDrive\Desktop\sg 3\sg 3\obj\Debug\net6.0-windows\sg 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haythm ibrahim\OneDrive\Desktop\sg 3\sg 3\obj\Debug\net6.0-windows\sg 3.AssemblyInfoInputs.cache
+C:\Users\haythm ibrahim\OneDrive\Desktop\sg 3\sg 3\obj\Debug\net6.0-windows\sg 3.AssemblyInfo.cs
+C:\Users\haythm ibrahim\OneDrive\Desktop\sg 3\sg 3\obj\Debug\net6.0-windows\sg 3.csproj.CoreCompileInputs.cache
+C:\Users\haythm ibrahim\OneDrive\Desktop\sg 3\sg 3\obj\Debug\net6.0-windows\sg 3.dll
+C:\Users\haythm ibrahim\OneDrive\Desktop\sg 3\sg 3\obj\Debug\net6.0-windows\refint\sg 3.dll
+C:\Users\haythm ibrahim\OneDrive\Desktop\sg 3\sg 3\obj\Debug\net6.0-windows\sg 3.pdb
+C:\Users\haythm ibrahim\OneDrive\Desktop\sg 3\sg 3\obj\Debug\net6.0-windows\sg 3.genruntimeconfig.cache
+C:\Users\haythm ibrahim\OneDrive\Desktop\sg 3\sg 3\obj\Debug\net6.0-windows\ref\sg 3.dll
